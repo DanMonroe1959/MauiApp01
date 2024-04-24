@@ -1,0 +1,1 @@
+C:\Users\monro\source\repos\MauiApp02\MauiApp02\MauiApp02.csproj;x64
